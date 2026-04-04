@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
+<channel>
     <title>Ole Santa Tweet Feed</title>
-    <link>https://olesantaclaus.github.io/twitter-feed/rss.xml</link>
+    <link>https://olesantaclaus.github.io/twitter-feed/</link>
     <description>Automated tweet feed</description>
     <item>
-      <title>My booking system went from 4 hours to 20 minutes using AI. Santa's get new helpers!</title>
-      <description>My booking system went from 4 hours to 20 minutes using AI. Santa's get new helpers!</description>
-      <guid isPermaLink="false">00001-20260403</guid>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
+        <title>My booking system went from 4 hours to 20 minutes using AI. Santa's get new helpers!</title>
+        <link>https://olesantaclaus.github.io/twitter-feed/</link>
+        <description>My booking system went from 4 hours to 20 minutes using AI. Santa's get new helpers!</description>
+        <guid isPermaLink="false">00001-20260403</guid>
+        <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
     </item>
-  </channel>
+</channel>
 </rss>
