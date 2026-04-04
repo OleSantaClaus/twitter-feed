@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
     <title>Ole Santa Tweet Feed</title>
     <link>https://olesantaclaus.github.io/twitter-feed/</link>
@@ -7,9 +7,9 @@
     <atom:link href="https://olesantaclaus.github.io/twitter-feed/rss.xml" rel="self" type="application/rss+xml" />
     <item>
         <title>My booking system went from 4 hours to 20 minutes using AI. Santa's get new helpers!</title>
-        <link>https://olesantaclaus.github.io/twitter-feed/index.html?id=001</link>
+        <link>https://olesantaclaus.github.io/twitter-feed/index.html?v=1</link>
         <description>My booking system went from 4 hours to 20 minutes using AI. Santa's get new helpers!</description>
-        <guid isPermaLink="false">santa-tweet-00001</guid>
+        <guid isPermaLink="false">santa-update-001</guid>
         <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
     </item>
 </channel>
