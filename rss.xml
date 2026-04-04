@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>Ole Santa Tweet Feed</title>
     <link>https://olesantaclaus.github.io/twitter-feed/</link>
     <description>Automated tweet feed</description>
+    <atom:link href="https://olesantaclaus.github.io/twitter-feed/rss.xml" rel="self" type="application/rss+xml" />
     <item>
         <title>My booking system went from 4 hours to 20 minutes using AI. Santa's get new helpers!</title>
-        <link>https://olesantaclaus.github.io/twitter-feed/</link>
+        <link>https://olesantaclaus.github.io/twitter-feed/index.html</link>
         <description>My booking system went from 4 hours to 20 minutes using AI. Santa's get new helpers!</description>
         <guid isPermaLink="false">00001-20260403</guid>
         <pubDate>Fri, 03 Apr 2026 12:00:00 GMT</pubDate>
